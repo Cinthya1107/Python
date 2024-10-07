@@ -64,7 +64,7 @@ lenguaje[0]
 #ultimo caracter
 lenguaje[len(lenguaje) - 1]
 lenguaje[-1]
-#seleccionar una rebana
+#seleccionar una rebanada
 lenguaje[2:6]
 lenguaje[2:]
 lenguaje[-2:]
